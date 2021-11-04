@@ -10,7 +10,7 @@ const name1 = '乃木坂';
 const name2 = 46;
 
 const name3 = name1 + name2;
-console.log( name3 ); // 乃木坂4
+console.log( name3 ); // 乃木坂46
 
 const num1 = '12';
 const num2 = 3;

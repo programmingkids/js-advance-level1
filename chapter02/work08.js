@@ -1,5 +1,4 @@
 // 論理演算子1
-
 const num1 = 7;
 if( num1 >= 5 && num1 <= 10 ) {
     console.log( '5以上かつ10以下です' );

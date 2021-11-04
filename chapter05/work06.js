@@ -1,7 +1,6 @@
 // スプレッド演算子
 const players = [ 'Tom', 'Meg', 'Suzy' ];
 
-
 // コピー
 const players2 = [ ...players ];
 console.log( players2 );

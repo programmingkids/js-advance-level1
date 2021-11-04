@@ -1,5 +1,4 @@
 // 比較演算子2
-
 // true
 console.log( 1 == 1 );
 // true
