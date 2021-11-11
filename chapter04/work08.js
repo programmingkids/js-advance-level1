@@ -5,7 +5,3 @@ const magician = {
     hobby : 'magic',
     address : 'Yokohama',
 };
-
-for ( const key of Object.keys(magician) ) {
-    console.log( key );
-}

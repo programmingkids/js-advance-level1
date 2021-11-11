@@ -5,6 +5,3 @@ const scores = {
     'Japanese' : 88,
 };
 
-for ( const key in scores ) {
-    console.log( `${key} is ${scores[key]}` );
-}

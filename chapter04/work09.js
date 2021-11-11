@@ -5,7 +5,3 @@ const magician = {
     hobby : 'magic',
     address : 'Yokohama',
 };
-
-for ( const value of Object.values(magician) ) {
-    console.log( value );
-}
