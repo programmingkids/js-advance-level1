@@ -6,10 +6,3 @@ const person = {
     address : "東京",
 };
 
-// ドット記法
-console.log( person.name );
-console.log( person.age );
-
-// 角カッコ記法
-console.log( person['hobby'] );
-console.log( person['address'] );

@@ -7,10 +7,3 @@ const person = {
     },
 };
 
-// オブジェクトを通してメソッドの呼び出し
-person.showName(); // My name is Elsa
-
-// オブジェクトからメソッドを取り出して、変数に代入する
-const showName = person.showName;
-// 変数を通してメソッドの呼び出し
-showName(); // My name is undefined

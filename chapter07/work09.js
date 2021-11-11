@@ -9,6 +9,3 @@ const person2 = {
     address: 'Okinawa',
 };
 
-// スプレッド演算子でオブジェクトを結合
-const person = { ...person1, ...person2 };
-console.log( person );
