@@ -11,5 +11,4 @@ const data = 'Giants,Tigers,Carp,Swallows,Baystars';
 
 // ここで「splitメソッド」を利用して、
 // 「,」区切りでも文字列を分割した配列を作成します
-const newData = data.split(',');
-console.log( newData );
+

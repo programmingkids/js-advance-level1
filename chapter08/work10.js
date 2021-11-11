@@ -20,6 +20,4 @@ const character = {
 
 // ここで、「Object.entries」メソッドを利用して、
 // オブジェクトのキーと値を表示する処理を作成します
-for ( const[key, value] of Object.entries(character) ) {
-    console.log( `${key} ===> ${value}`);
-}
+

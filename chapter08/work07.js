@@ -13,7 +13,7 @@ const data2 = [ '群馬', '栃木', '茨城' ];
 
 // ここでconcatメソッドを利用して、配列「data1」と「data2」を
 // 結合して、配列「kanto」を作成します
-const kanto = data1.concat( data2 );
+
 
 
 // 以下の部分は修正してはいけません

@@ -22,7 +22,7 @@ const data2 = {
 
 // ここでスプレッド演算子を利用して、オブジェクト「data1」と「data2」を
 // 結合して、オブジェクト「character」を作成します
-const character = { ...data1, ...data2 };
+
 
 
 // 以下の部分は修正してはいけません

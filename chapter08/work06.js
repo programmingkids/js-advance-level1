@@ -9,5 +9,3 @@ filterメソッドを利用して、配列から3の倍数以外の数値を取�
 // 配列定義
 let numbers = [ 3,5,6,9,2,4 ];
 
-numbers = numbers.filter(e => e % 3 !== 0);
-console.log( numbers );

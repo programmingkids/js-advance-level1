@@ -20,7 +20,7 @@ const character = {
 };
 
 // ここで分割代入により、「name」「job」「level」を取り出す
-const {name, job, level} = character;
+
 
 
 // 以下の部分は修正してはいけません

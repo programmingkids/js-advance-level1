@@ -13,7 +13,7 @@ const data2 = [ 'green', 'yellow', 'purple' ];
 
 // ここでスプレッド演算子を利用して、配列「data1」と「data2」を
 // 結合して、配列「color」を作成します
-const color = [ ...data1, ...data2 ];
+
 
 
 // 以下の部分は修正してはいけません

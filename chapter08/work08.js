@@ -12,5 +12,3 @@ let names = [ 'mike', 'Tom', 'SAra', 'bELL', 'ariel' ];
 
 // ここで「toUpperCaseメソッド」と「map」メソッドを利用して、
 // 配列の各要素を大文字にした配列を作成します
-names = names.map(e => e.toUpperCase());
-console.log( names );

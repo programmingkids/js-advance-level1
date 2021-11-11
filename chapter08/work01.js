@@ -15,7 +15,7 @@
 const person = ['山田', '彩香', 15, 'テニス' ];
 
 // ここで分割代入により、1個目、2個目、3個目の要素を取り出す
-const [lastName, firstName, age] = person;
+
 
 
 // 以下の部分は修正してはいけません
